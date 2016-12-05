@@ -1,0 +1,11 @@
+C:\Users\Luis Angeles\AppData\Local\Temporary Projects\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Form1.resources
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Resources.resources
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.vbproj.GenerateResource.Cache
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.xml
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.xml
+C:\Users\Luis Angeles\Documents\Visual Studio 2012\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb

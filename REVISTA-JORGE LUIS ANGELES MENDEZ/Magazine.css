@@ -1,0 +1,34 @@
+#header{height: 200px; background: bisque;}
+
+* {padding: 0px; margin: 0px;
+}
+
+#Menu {padding: 0px; margin: 0px;}
+#Menu {margin: auto; width: 1000px; font-family: fantasy;}
+ul, ol {list-style: none;}
+
+.nav li a { background-color:cadetblue; color:#fff; text-decoration: none; padding: 10px 80px; display: block; font-size: 30px;}
+
+.nav > li {float: left;}
+
+.nav li a:hover{background-color:darkseagreen;}
+
+.nav li ul {display: none; 
+position:absolute;}
+
+.nav li:hover > ul {display: block;}
+
+
+#barra_lateral, #contenido {display: inline-block; vertical-align: middle;}
+#barra_lateral{background-color: burlywood; width: 20%; min-height: 300px; font-family: fantasy; color: aliceblue; font-size: 20px}
+#contenido {background-color: coral; width: 78%; min-height: 300px; font-size: 22px; font-family: fantasy; text-align: justify; color: aliceblue}
+
+#pie{background-color: darksalmon; border-top: 1px solid #cccccc; min-height: 100px; margin-top: 10px; color:azure; font-family: fantasy; font-size: 20px; text-align: center;}
+
+#titulo{color: chocolate; font-family: Broadway; font-size: 50px ; margin-left: 5px; text-align: center}
+
+.Letritas{color: darkred}
+
+#buscar{box-shadow: 1px 1px 2px #cccccc; border: 1px solid #F7F7F7; border-radius: 30px; width: 80%; padding: 5px 10px; padding-right: 30px}
+#btn_buscar{padding: 5px 15px; display: block}
+
